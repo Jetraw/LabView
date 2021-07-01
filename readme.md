@@ -1,4 +1,4 @@
-# Jetraw LabView, the Jetraw and Dpcore module for LabView.
+# Jetraw LabView, the Jetraw and Dpcore modules for LabView.
 This is the public repository for the **Jetraw and Dpcore** modules compatible with LabView. With both modules the user is able to **Dpcore prepare the acquired images** and then optionally the user can **compress the images using Jetraw** within LabView.  
 <br/>For more info visit:
 https://www.jetraw.com/
