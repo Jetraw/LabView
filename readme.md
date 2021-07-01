@@ -16,7 +16,7 @@ You will need the following NIPKG file for installation:
 
 - jetraw_21.07.01.1_windows_x64.nipkg [latest (pre-)release](https://github.com/Jetraw/LabView/releases/download/21.07.01.1/jetraw_21.07.01.1_windows_x64.nipkg)
   
-If you need a previous version please go to [previous versions.](https://github.com/Jetraw/LabView/releases/
+If you need a previous version please go to [previous versions.](https://github.com/Jetraw/LabView/releases/)
 
 After the file is downloaded you simply need to double click on it and the installation process will start. Follow the installation steps. 
 
